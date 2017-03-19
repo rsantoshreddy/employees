@@ -2,7 +2,7 @@
 
 mkdir jnsolution <br/>
 git clone https://github.com/rsantoshreddy/employees.git<br/>
-cd cinemas<br/>
+cd Employees<br/>
 npm install<br/>
 npm start<br/>
 
